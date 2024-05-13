@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.17",
+    "@mui/material": "^5.15.17",
+    "axios": "^1.6.8",
+    "belajartea": "^1.1.5",
+    "react-router-dom": "^6.23.1",
+    "tommyvercelweb": "^1.1.2"
+  },
+  "name": "loginpagetommy",
+  "version": "1.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamabii/login-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamabii/login-page/issues"
+  },
+  "homepage": "https://github.com/tamabii/login-page#readme",
+  "description": ""
+}
